@@ -1,7 +1,12 @@
 # -| MXDOcean |-
 
 KDE Plasma's 'Ocean' sound theme, re-interpreted from the original project files using the Korg Minilogue XD synthesizer.
-Currently, I have not yet worked on this. This is just going to be a fun little musical project. I don't know how exactly to ompimise the sounds for use with Plasma
+
+Currently, I have not yet worked on this. This is just going to be a fun little musical project. I don't yet know how exactly to ompimise the sounds for use with Plasma but I'll see if it's possible with the branches from the original repo.
+
+This will be recorded and edited using Reaper, potentially eliminating some of the original problems caused by LMMS? (I used it for years, I know how munted it can be)
+
+# Original README:
 
 # Ocean Sound Theme
 
